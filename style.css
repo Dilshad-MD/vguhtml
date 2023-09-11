@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  width: 100px;
+  margin-left: 505px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  /* color: rgb(9, 152, 241); */
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+th {
+  height: 70px;
+  margin-bottom: 15px;
+}
+.sub-head {
+  /* padding-left: 300px; */
+  margin-bottom: 20px;
+}
+
+.data-1 {
+  /* padding-left: 290px; */
+  margin-top: 10px;
+}
